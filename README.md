@@ -140,3 +140,28 @@ python wkb_full.py
 | `mutation_fig2_dna_damage.png` | DNA damage mechanisms infographic |
 | `mutation_fig3_cancer_risk.png` | Cancer risk map based on ICRP models |
 
+
+---
+
+## Part IV: Earthquake Generation & Space Debris Tunneling
+
+### New Documents
+| File | Description |
+|---|---|
+| `Earthquake_Debris_Analysis.md` | Full analysis: Seismic UFO vs Meteorite & WKB Space Debris (Markdown) |
+| `Earthquake_Debris_Analysis.pdf` | Full analysis (PDF) |
+
+### New Python Scripts
+| File | Description |
+|---|---|
+| `earthquake_debris_calc.py` | All calculations: Seismic energy, Mw, WKB tunneling for space garbage |
+| `earthquake_debris_plots.py` | Generates 4 visualization figures |
+
+### New Figures
+| File | Description |
+|---|---|
+| `eq_fig1_magnitude.png` | Seismic energy and Moment Magnitude comparison |
+| `eq_fig2_waveforms.png` | Schematic seismic waveforms and source geometries |
+| `eq_fig3_debris_tunneling.png` | WKB tunneling probability vs space debris population |
+| `eq_fig4_pga.png` | Peak Ground Acceleration (PGA) vs Distance map |
+
