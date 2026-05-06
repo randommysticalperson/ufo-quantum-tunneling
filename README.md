@@ -117,3 +117,26 @@ python wkb_full.py
 | `kraken_fig5_cherenkov_cone.png` | Cherenkov cone geometry (Huygens construction) |
 | `kraken_fig6_meteorite_wkb.png` | WKB potential profile: meteorite vs UFO |
 
+
+---
+
+## Part III: Radiation Genomics & Mutation Analysis
+
+### New Documents
+| File | Description |
+|---|---|
+| `UFO_Radiation_Mutation_Analysis.md` | Full analysis: Radiation genomics and DNA quantum tunneling (Markdown) |
+| `UFO_Radiation_Mutation_Analysis.pdf` | Full analysis (PDF) |
+
+### New Python Scripts
+| File | Description |
+|---|---|
+| `ufo_mutation_calc.py` | All calculations: Dose, mutation rates, and proton tunneling |
+
+### New Figures
+| File | Description |
+|---|---|
+| `mutation_fig1_overview.png` | Dose, mutation spectra, and proton tunneling probability |
+| `mutation_fig2_dna_damage.png` | DNA damage mechanisms infographic |
+| `mutation_fig3_cancer_risk.png` | Cancer risk map based on ICRP models |
+
